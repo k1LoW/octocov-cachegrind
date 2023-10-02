@@ -53,7 +53,6 @@ func Parse(in io.Reader) (*report.CustomMetricSet, error) {
 		}
 		cset.Metrics = append(cset.Metrics, &report.CustomMetric{
 			Key:   e,
-			Name:  e,
 			Value: float64(v),
 		})
 	}
