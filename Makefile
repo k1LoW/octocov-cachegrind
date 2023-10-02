@@ -19,7 +19,8 @@ test:
 	go test ./... -coverprofile=coverage.out -covermode=count
 
 test-integration:
-	cat testdata/cachegrind.out | go run ./cmd/octocov-cachegrind/main.go --tee > custom_metrics_cachegrind.json
+	setarch `uname -m` -R valgrind --tool=cachegrind --cachegrind-out-file=cachegrind.out --I1=32768,8,64 --D1=32768,8,64 --LL=8388608,16,64 ls
+	cat cachegrind.out | go run ./cmd/octocov-cachegrind/main.go --tee > custom_metrics_cachegrind.json
 
 lint:
 	golangci-lint run ./...

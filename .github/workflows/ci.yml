@@ -13,6 +13,11 @@ jobs:
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
+      - name: Set up
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y valgrind
+
       - name: Check out source code
         uses: actions/checkout@v4
 
