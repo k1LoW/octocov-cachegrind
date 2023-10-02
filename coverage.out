@@ -1,0 +1,14 @@
+mode: count
+github.com/k1LoW/octocov-cachegrind/parser.go:16.59,23.21 4 1
+github.com/k1LoW/octocov-cachegrind/parser.go:23.21,25.10 2 14247
+github.com/k1LoW/octocov-cachegrind/parser.go:26.73,27.12 1 2012
+github.com/k1LoW/octocov-cachegrind/parser.go:28.32,29.12 1 12229
+github.com/k1LoW/octocov-cachegrind/parser.go:30.41,35.6 2 3
+github.com/k1LoW/octocov-cachegrind/parser.go:36.40,42.71 3 1
+github.com/k1LoW/octocov-cachegrind/parser.go:43.43,44.87 1 1
+github.com/k1LoW/octocov-cachegrind/parser.go:45.44,46.88 1 1
+github.com/k1LoW/octocov-cachegrind/parser.go:49.2,49.27 1 1
+github.com/k1LoW/octocov-cachegrind/parser.go:49.27,51.17 2 9
+github.com/k1LoW/octocov-cachegrind/parser.go:51.17,53.4 1 0
+github.com/k1LoW/octocov-cachegrind/parser.go:54.3,57.5 1 9
+github.com/k1LoW/octocov-cachegrind/parser.go:59.2,59.18 1 1
