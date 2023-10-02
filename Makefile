@@ -32,7 +32,7 @@ depsdev:
 	go install github.com/Songmu/gocredits/cmd/gocredits@latest
 
 prerelease_for_tagpr: depsdev
-	go mot tidy
+	go mod tidy
 	gocredits -skip-missing -w .
 	cat _EXTRA_CREDITS >> CREDITS
 	git add CHANGELOG.md CREDITS go.mod go.sum
