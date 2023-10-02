@@ -11,15 +11,15 @@ export GO111MODULE=on
 
 BUILD_LDFLAGS = -X $(PKG).commit=$(COMMIT) -X $(PKG).date=$(DATE)
 
-default: test test-integration
+default: test
 
-ci: depsdev test
+ci: depsdev test test-integration
 
 test:
 	go test ./... -coverprofile=coverage.out -covermode=count
 
 test-integration:
-	cat testdata/cachegrind.out | go run ./cmd/octocov-cachegrind/main.go --tee > custom_metrics_bench.json
+	cat testdata/cachegrind.out | go run ./cmd/octocov-cachegrind/main.go --tee > custom_metrics_cachegrind.json
 
 lint:
 	golangci-lint run ./...
