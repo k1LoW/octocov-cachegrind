@@ -1,5 +1,7 @@
 # octocov-cachegrind
 
+[![CI](https://github.com/k1LoW/octocov-cachegrind/actions/workflows/ci.yml/badge.svg)](https://github.com/k1LoW/octocov-cachegrind/actions/workflows/ci.yml) ![Coverage](https://raw.githubusercontent.com/k1LoW/octocovs/main/badges/k1LoW/octocov-cachegrind/coverage.svg) ![Code to Test Ratio](https://raw.githubusercontent.com/k1LoW/octocovs/main/badges/k1LoW/octocov-cachegrind/ratio.svg) ![Test Execution Time](https://raw.githubusercontent.com/k1LoW/octocovs/main/badges/k1LoW/octocov-cachegrind/time.svg)
+
 Generate [octocov custom metrics JSON](https://github.com/k1LoW/octocov#custom-metrics) from the output of `valgrind --tool=cachegrind`.
 
 ## Usage
