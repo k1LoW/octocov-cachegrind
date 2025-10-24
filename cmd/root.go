@@ -39,7 +39,7 @@ var (
 	tee bool
 )
 
-// rootCmd represents the base command when called without any subcommands
+// rootCmd represents the base command when called without any subcommands.
 var rootCmd = &cobra.Command{
 	Use:   "octocov-cachegrind",
 	Short: "Generate octocov custom metrics JSON from the output of 'valgrind --tool=cachegrind'",
