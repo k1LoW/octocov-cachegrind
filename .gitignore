@@ -1,2 +1,3 @@
+coverage.out
 dist/
 custom_metrics_cachegrind.json
