@@ -1,3 +1,4 @@
+version: 2
 before:
   hooks:
     - go mod download
@@ -44,19 +45,16 @@ archives:
     name_template: '{{ .ProjectName }}_v{{ .Version }}_{{ .Os }}_{{ .Arch }}{{ if .Arm }}v{{ .Arm }}{{ end }}'
     format_overrides:
       - goos: darwin
-        format: zip
+        formats:
+          - zip
     files:
       - LICENSE
       - CREDITS
       - README.md
       - CHANGELOG.md
-    rlcp: true
 checksum:
   name_template: 'checksums.txt'
-snapshot:
-  name_template: "{{ .Version }}-next"
 changelog:
-  skip: true
   sort: asc
   filters:
     exclude:
@@ -66,7 +64,7 @@ nfpms:
   -
     id: octocov-cachegrind-nfpms
     file_name_template: "{{ .ProjectName }}_{{ .Version }}-1_{{ .Arch }}"
-    builds:
+    ids:
       - octocov-cachegrind-linux
     homepage: https://github.com/k1LoW/octocov-cachegrind
     maintainer: Ken'ichiro Oyama <k1lowxb@gmail.com>
