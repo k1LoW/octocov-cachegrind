@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.2.2](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.1...v0.2.2) - 2025-11-20
+### Other Changes
+- chore(deps): bump golang.org/x/crypto from 0.43.0 to 0.45.0 by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/22
+
 ## [v0.2.1](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.0...v0.2.1) - 2025-10-24
 
 ## [v0.2.0](https://github.com/k1LoW/octocov-cachegrind/compare/v0.1.2...v0.2.0) - 2025-10-24
