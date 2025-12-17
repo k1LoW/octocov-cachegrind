@@ -1,5 +1,13 @@
 # Changelog
 
+## [v0.2.3](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.2...v0.2.3) - 2025-12-17
+### Other Changes
+- chore(deps): bump github.com/k1LoW/octocov from 0.73.0 to 0.73.1 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/24
+- chore(deps): bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/25
+- chore(deps): bump the dependencies group across 1 directory with 2 updates by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/29
+- chore(deps): bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/27
+- chore(deps): bump github.com/expr-lang/expr from 1.17.6 to 1.17.7 by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/30
+
 ## [v0.2.2](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.1...v0.2.2) - 2025-11-20
 ### Other Changes
 - chore(deps): bump golang.org/x/crypto from 0.43.0 to 0.45.0 by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/22
