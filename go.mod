@@ -4,7 +4,7 @@ go 1.24.11
 
 require (
 	github.com/google/go-cmp v0.7.0
-	github.com/k1LoW/octocov v0.74.0
+	github.com/k1LoW/octocov v0.74.1
 	github.com/mattn/go-isatty v0.0.20
 	github.com/spf13/cobra v1.10.2
 )
@@ -49,7 +49,7 @@ require (
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/k1LoW/duration v1.2.0 // indirect
 	github.com/k1LoW/errors v1.1.1 // indirect
-	github.com/k1LoW/expand v0.16.3 // indirect
+	github.com/k1LoW/expand v0.16.4 // indirect
 	github.com/k1LoW/go-github-actions v0.2.0 // indirect
 	github.com/k1LoW/go-github-client/v67 v67.0.21 // indirect
 	github.com/k1LoW/repin v0.4.0 // indirect
@@ -82,15 +82,15 @@ require (
 	github.com/xeipuuv/gojsonschema v1.2.0 // indirect
 	github.com/zhangyunhao116/fastrand v0.5.0 // indirect
 	github.com/zhangyunhao116/skipmap v0.10.1 // indirect
-	golang.org/x/crypto v0.45.0 // indirect
+	golang.org/x/crypto v0.46.0 // indirect
 	golang.org/x/exp v0.0.0-20251023183803-a4bb9ffd2546 // indirect
-	golang.org/x/net v0.47.0 // indirect
-	golang.org/x/oauth2 v0.33.0 // indirect
-	golang.org/x/sys v0.38.0 // indirect
-	golang.org/x/text v0.31.0 // indirect
-	golang.org/x/tools v0.39.0 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20251103181224-f26f9409b101 // indirect
-	google.golang.org/grpc v1.76.0 // indirect
+	golang.org/x/net v0.48.0 // indirect
+	golang.org/x/oauth2 v0.34.0 // indirect
+	golang.org/x/sys v0.39.0 // indirect
+	golang.org/x/text v0.32.0 // indirect
+	golang.org/x/tools v0.40.0 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20251124214823-79d6a2a48846 // indirect
+	google.golang.org/grpc v1.77.0 // indirect
 	google.golang.org/protobuf v1.36.10 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
