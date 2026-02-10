@@ -1,5 +1,16 @@
 # Changelog
 
+## [v0.2.4](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.3...v0.2.4) - 2026-02-10
+### Other Changes
+- chore(deps): bump Songmu/tagpr from 1.10.0 to 1.11.0 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/32
+- chore(deps): bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/34
+- chore(deps): bump github.com/k1LoW/octocov from 0.74.0 to 0.74.1 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/31
+- chore(deps): bump github.com/k1LoW/octocov from 0.74.1 to 0.74.2 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/35
+- chore(deps): bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/36
+- chore(deps): bump Songmu/tagpr from 1.12.1 to 1.15.0 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/37
+- chore(deps): bump github.com/k1LoW/octocov from 0.74.2 to 0.74.4 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/38
+- chore(deps): bump github.com/go-git/go-git/v5 from 5.16.4 to 5.16.5 by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/39
+
 ## [v0.2.3](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.2...v0.2.3) - 2025-12-17
 ### Other Changes
 - chore(deps): bump github.com/k1LoW/octocov from 0.73.0 to 0.73.1 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/24
