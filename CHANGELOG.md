@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.2.5](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.4...v0.2.5) - 2026-03-19
+### Other Changes
+- chore(deps): bump the dependencies group across 1 directory with 3 updates by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/44
+- chore(deps): bump github.com/cloudflare/circl from 1.6.1 to 1.6.3 by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/42
+- chore(deps): bump github.com/k1LoW/octocov from 0.74.4 to 0.74.5 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/40
+- chore(deps): bump google.golang.org/grpc from 1.78.0 to 1.79.3 by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/46
+
 ## [v0.2.4](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.3...v0.2.4) - 2026-02-10
 ### Other Changes
 - chore(deps): bump Songmu/tagpr from 1.10.0 to 1.11.0 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/32
