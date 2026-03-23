@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.2.6](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.5...v0.2.6) - 2026-03-23
+### Other Changes
+- chore(deps): bump github.com/k1LoW/octocov from 0.74.5 to 0.75.5 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/47
+
 ## [v0.2.5](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.4...v0.2.5) - 2026-03-19
 ### Other Changes
 - chore(deps): bump the dependencies group across 1 directory with 3 updates by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/44
