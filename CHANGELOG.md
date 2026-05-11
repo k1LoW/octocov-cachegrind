@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.2.7](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.6...v0.2.7) - 2026-05-11
+### Other Changes
+- chore(deps): bump github.com/mattn/go-isatty from 0.0.21 to 0.0.22 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/58
+- chore(deps): bump Songmu/tagpr from 1.18.3 to 1.19.0 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/59
+
 ## [v0.2.6](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.5...v0.2.6) - 2026-05-11
 ### Other Changes
 - chore(deps): bump github.com/k1LoW/octocov from 0.74.5 to 0.75.5 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/47
