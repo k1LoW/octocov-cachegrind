@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.2.9](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.8...v0.2.9) - 2026-07-27
+
+### Other Changes
+- chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.82.1 by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/73
+- chore(deps): bump the dependencies group across 1 directory with 3 updates by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/75
+- chore(deps): bump the dependencies group across 1 directory with 2 updates by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/72
+
 ## [v0.2.8](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.7...v0.2.8) - 2026-07-11
 
 ### Other Changes
