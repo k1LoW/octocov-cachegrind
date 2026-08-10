@@ -125,8 +125,8 @@ github.com/k1LoW/go-github-actions v0.2.1 h1:Ve5ewWhFO2HrEU0pwQAGZ3+jAIvFVIo6Q8H
 github.com/k1LoW/go-github-actions v0.2.1/go.mod h1:KD7mf8tgCxv3Q5rXdhb6qfAx6R35e4688bzIujFZnQ8=
 github.com/k1LoW/go-github-client/v67 v67.0.22 h1:OrHvz/ZArfwjja3RBGOYUm3FpS4FH0h7KRdyATQWKlk=
 github.com/k1LoW/go-github-client/v67 v67.0.22/go.mod h1:e4C9E6DeqIUKk8pY4rpwXZoV11yuFPHWsfd3QxsNQ/A=
-github.com/k1LoW/octocov v0.75.10 h1:KZNEQ5XeOs0OTKWu8Kd39FBJM90RXgqCOhxaEtFEYmA=
-github.com/k1LoW/octocov v0.75.10/go.mod h1:PtElP7V2ZNU64PYtT+UhpDJrU2DkMNApqe5TECd9KSU=
+github.com/k1LoW/octocov v0.75.12 h1:X09+l0sE2iXY2TE8jxEN3FD4u7xUsYuIcH9OABTblqo=
+github.com/k1LoW/octocov v0.75.12/go.mod h1:WE9pFZeXCqFNgNjjQt/4fcqhCVbkkXRwJdwF4vZ/NqU=
 github.com/k1LoW/repin v0.4.1 h1:Dibm3e2A+f2HEwdES6afO1TI5+Wj0wxD3Hq9vNycQFM=
 github.com/k1LoW/repin v0.4.1/go.mod h1:B+KAmHLxKUJ0akrq8v+IEI90DfRWq5TAwA3lHFKgbJg=
 github.com/kevinburke/ssh_config v1.4.0 h1:6xxtP5bZ2E4NF5tuQulISpTO2z8XbtH8cg1PWkxoFkQ=

@@ -4,7 +4,7 @@ go 1.25.12
 
 require (
 	github.com/google/go-cmp v0.7.0
-	github.com/k1LoW/octocov v0.75.10
+	github.com/k1LoW/octocov v0.75.12
 	github.com/mattn/go-isatty v0.0.24
 	github.com/spf13/cobra v1.10.2
 )
