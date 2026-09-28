@@ -30,16 +30,19 @@ build:
 
 depsdev:
 	go install github.com/Songmu/ghch/cmd/ghch@latest
-	go install github.com/Songmu/gocredits/cmd/gocredits@latest
 
-prerelease_for_tagpr: depsdev
-	go mod tidy
-	gocredits -skip-missing -w .
+credits:
+	go install github.com/Songmu/gocredits/cmd/gocredits@v1.0.0
+	gocredits -skip-missing . > CREDITS
 	cat _EXTRA_CREDITS >> CREDITS
+
+prerelease_for_tagpr:
+	go mod tidy
+	$(MAKE) credits
 	git add CHANGELOG.md CREDITS go.mod go.sum
 
 release:
 	git push origin main --tag
 	goreleaser --clean
 
-.PHONY: default test
+.PHONY: default test credits
