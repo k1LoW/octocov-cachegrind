@@ -1,5 +1,13 @@
 # Changelog
 
+## [v0.2.10](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.9...v0.2.10) - 2026-09-28
+
+### Other Changes
+- chore(deps): bump github.com/go-git/go-git/v5 from 5.19.1 to 5.19.2 by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/78
+- chore(deps): bump github.com/k1LoW/octocov from 0.75.10 to 0.75.12 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/76
+- chore(deps): bump k1LoW/octocov-action from 1.5.1 to 1.5.2 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/octocov-cachegrind/pull/77
+- ci: generate CREDITS with gocredits v1.0.0 from a make target by @k1LoW in https://github.com/k1LoW/octocov-cachegrind/pull/83
+
 ## [v0.2.9](https://github.com/k1LoW/octocov-cachegrind/compare/v0.2.8...v0.2.9) - 2026-07-27
 
 ### Other Changes
