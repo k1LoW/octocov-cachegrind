@@ -4,4 +4,4 @@ package version
 const Name string = "octocov-cachegrind"
 
 // Version for this.
-var Version = "0.2.9"
+var Version = "0.2.10"
